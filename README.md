@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Jonish
 
-<!--
-**Jonish-sm/jonish-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer focused on building scalable, production-ready web applications.
 
-Here are some ideas to get you started:
+- 💻 Frontend: **Next.js, React, Tailwind CSS**
+- ⚙️ Backend: **Node.js, NestJS**
+- 🗄️ Databases: **PostgreSQL, MySQL**
+- 🔐 Auth: **JWT, Role-based access**
+- 🧩 Interests: Dashboards, SaaS apps, system design, clean APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Metrics
+
+![Metrics](https://github.com/jonish-sm/jonish-sm/blob/main/github-metrics.svg)
+
+---
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/jonish-sm
