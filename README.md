@@ -2,10 +2,12 @@
 
 🚀 Full-stack developer focused on building scalable, production-ready web applications.
 
-- 💻 Frontend: **Next.js, React, Tailwind CSS**
-- ⚙️ Backend: **Node.js, NestJS**
-- 🗄️ Databases: **PostgreSQL, MySQL**
-- 🔐 Auth: **JWT, Role-based access**
+- 💻 Frontend: **Javascript, TypeScript, React, Next.js, Tailwind CSS**
+- ⚙️ Backend: **Node.js, Express.js, NestJS, Restful APIs, Websockets**
+- 🗄️ Databases: **PostgreSQL**
+- 🔐 Auth: **JWT, role-based access control, secure API design**
+- •• Tools: **Git, PM2**
+- •• Focus areas: Dashboards, SaaS platforms, system design, scalable architectures, and clean, maintainable APIs
 - 🧩 Interests: Dashboards, SaaS apps, system design, clean APIs
 
 ---
